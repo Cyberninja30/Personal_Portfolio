@@ -134,10 +134,6 @@ Windows:
 git clone https://github.com/pawantech12/portfolio-website.git
 ```
 
-### Contact
-
-If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/codewithpawan/).
-
 ### License
 
 This project is **Free To Use** and does not contains any license.
